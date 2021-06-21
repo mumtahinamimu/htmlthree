@@ -1,0 +1,83 @@
+
+
+.h1tag1{
+
+	color: blue;
+
+	font-family: roboto;
+
+	font size: 30;
+}
+
+.example{
+
+	font-family: poppins;
+
+	font-size: 20;
+
+	color: red;
+}
+
+#mimu{
+
+	color: red;
+}
+
+.videosize{
+
+	width:250 ;
+
+	height: 150;
+}
+
+.quotestyle{
+
+	color: green;
+
+	font-style: italic;
+}
+
+caption{
+
+
+}
+
+.table{
+	 border: 1px solid blue;
+
+	 font-size: 40;
+
+}
+
+tr{
+	border: 1px solid blue;
+
+}
+
+th{
+	border: 1px solid blue;
+}
+
+.tr1{
+	background-color: yellow;
+}
+
+td{
+	border: 1px solid blue;
+}
+
+.cite{
+	font-size: 20;
+}
+
+.googlemap{
+	width: 560px;
+	height: 315px;
+	style="border:5px solid black;
+}
+
+.myDiv{
+	border: 5px solid blue;
+	background-color: lightgrey;
+	text-align: center;
+}
